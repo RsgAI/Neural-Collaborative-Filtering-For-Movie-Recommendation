@@ -165,6 +165,9 @@ Since the dataset has a continuous rating score _Mean Squared Error function_ is
 _Metrics_ are also being changed as the problem turns into a _Regression_ problem.
 See <ins>_/Training/Training8.ipynb_</ins> file for details.
 
+- _**Note:** Performance and accuracy of models can be improved by
+[**Hyperparameter Optimization**](https://en.wikipedia.org/wiki/Hyperparameter_optimization "Wikipedia")_
+
 ---
 
 ## *Prediction Preparation*
