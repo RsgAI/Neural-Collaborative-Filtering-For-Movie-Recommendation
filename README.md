@@ -43,7 +43,7 @@ This model is trained with the same dataset adapted to different classification 
 
 ### - Preparation
 
-1. **Preparation1:** First Step of data preperation process. Reading data from csv file, dataset is shrinking,
+1. **Preparation1:** First Step of data preparation process. Reading data from csv file, dataset is shrinking,
 unused attributes and unrated movies are deleted. Ids are reset and data is saved as _pkl_ files for future use.
 **_RawData_** _(Rating.pkl, Movie.pkl)_ is created in this notebook.
 See <ins>_/DataPreparation/Preparation1.ipynb_</ins> file for details.
